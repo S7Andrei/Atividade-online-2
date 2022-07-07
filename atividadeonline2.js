@@ -15,7 +15,7 @@ console.log ("---Insira suas Credenciais")
 
 
 
-console.log (`Qual a sua idade jovem Padawan?: ${idade}}`)
+console.log (`Qual a sua idade jovem Padawan?: ${idade}`)
 
 if (idade >= 15) {
     console.log ("Idade válida. Nós o consagramos, mestre Jedi.")
