@@ -15,7 +15,7 @@ console.log ("---Insira suas Credenciais")
 
 
 
-console.log ('Qual a sua idade jovem Padawan?: ${idade}}')
+console.log (`Qual a sua idade jovem Padawan?: ${idade}}`)
 
 if (idade >= 15) {
     console.log ("Idade válida. Nós o consagramos, mestre Jedi.")
@@ -26,7 +26,7 @@ if (idade >= 15) {
 
 
 
-console.log ("Insira a data do evento escolhido. Eu espero que um dia você encontre seu próprio sol Ashen One: ${291122}")
+console.log (`Insira a data do evento escolhido. Eu espero que um dia você encontre seu próprio sol Ashen One: ${291122}`)
 
 if (data !=291122) {
     console.log ("Data invalida. Ah shit, here we go again") 
