@@ -18,9 +18,9 @@ console.log ("---Insira suas Credenciais")
 console.log (`Qual a sua idade jovem Padawan?: ${idade}`)
 
 if (idade >= 15) {
-    console.log ("Idade válida. Nós o consagramos, mestre Jedi.")
+    console.log ("Idade valida")
 } else {
-    console.log ("Idade invalida, Nós não o consagramos mestre Jedi.")
+    console.log ("Idade não correponde")
 }
 
 
@@ -29,15 +29,15 @@ if (idade >= 15) {
 console.log (`Insira a data do evento escolhido. Eu espero que um dia você encontre seu próprio sol Ashen One: ${291122}`)
 
 if (data !=291122) {
-    console.log ("Data invalida. Ah shit, here we go again") 
+    console.log ("Data invalida") 
 } else {
-    console.log ("Data válida. Quando tudo parecer perdido, procure o que reflete o que são e aquilo que mais desejam")
+    console.log ("Data válida")
 }
 
 
 
 
-console.log ("Quantidade de participantes. Penso, logo existo...")
+console.log ("Quantidade de participantes.")
 
 if (participantes <= maxdeparticipantes) {
     console.log ("Sucesso! Cadastro efetuado.")
